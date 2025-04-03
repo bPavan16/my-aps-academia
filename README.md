@@ -37,13 +37,10 @@ Solutions to problems from the [CSES Problem Set](https://cses.fi/problemset/), 
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/my-aps-academia.git
+   git clone https://github.com/bPavan16/my-aps-academia.git
    ```
 2. Navigate to specific topics of interest
-3. For Jupyter notebooks, ensure you have the required dependencies:
-   ```
-   pip install jupyter numpy pandas matplotlib
-   ```
+
 
 ## 🤝 Contributing
 
